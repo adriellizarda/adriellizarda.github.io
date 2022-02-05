@@ -8,6 +8,9 @@
         }
         
         #bannerwrap {
-            width: 800px;
-            margin: 0 auto;
+            position: absolute;
+            z-index: 999999;
+            right: 0;
+            height: 60%;
+            text-align: left;        
         }
