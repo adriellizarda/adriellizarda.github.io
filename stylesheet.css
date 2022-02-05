@@ -15,6 +15,7 @@
         }
 
         #contain {
+            background-color: rgb(220, 221, 206);
             width: 50%;
             display: block;
             margin-left: auto;
