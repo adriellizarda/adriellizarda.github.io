@@ -20,8 +20,8 @@
         }
 
         #contain {
-            position: absolute;
-            top: 800;
+            position: relative;
+            top: 2500;
             right: 20;
             bottom: 0;
             left: 20;
