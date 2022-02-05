@@ -7,7 +7,8 @@
             font-family: Helvetica, sans-serif;
         }
 
-        #banner {
+        #header {
+           background-color: rgb(220, 221, 206);
            width: 50%;
            display: block;
            margin-left: auto;
@@ -15,13 +16,8 @@
         }
 
         #table {
-           background-color: rgb(220, 221, 206);
-           width: 50%;
-           display: block;
            border-spacing: 100px;
            position: center;
-           margin-left: auto;
-           margin-right: auto;
         }
 
         #contain {
