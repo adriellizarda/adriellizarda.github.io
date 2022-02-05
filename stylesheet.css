@@ -20,13 +20,10 @@
         }
 
         #contain {
-            position: relative;
+            position: center;
             top: 2500;
             margin-left: auto;
             margin-right: auto;
-            display: flex;
-            justify-content: center;
-            align-items: center;     
         }
 
         #table {
