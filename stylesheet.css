@@ -5,3 +5,9 @@
         body {
             background-color: rgb(104, 255, 89);
         }
+        
+        #container {
+                position: fixed;
+                width: 100%;
+                top: 75%;
+        }
