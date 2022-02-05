@@ -18,6 +18,7 @@
            background-color: rgb(220, 221, 206);
            width: 50%;
            display: block;
+           border-collapse: separate;
            border-spacing: 100px;
            position: center;
            margin-left: auto;
