@@ -19,13 +19,9 @@
            margin-right: auto;
 } 
 
-        #wrap {
+        #contain {
             width: 50%;
             position: center;        
-        }
-
-        #contain {
-            position: center;
             margin-left: auto;
             margin-right: auto;
         }
