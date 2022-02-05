@@ -6,6 +6,13 @@
             background-color: rgb(197, 198, 180);
             font-family: Helvetica, sans-serif;
         }
+
+        #banner {
+           width: 50%;
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+} 
         
         #wrap {
             width: 800px;
