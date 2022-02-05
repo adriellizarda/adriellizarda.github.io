@@ -7,10 +7,20 @@
             font-family: Helvetica, sans-serif;
         }
         
-        #bannerwrap {
-            position: absolute;
-            z-index: 999999;
-            right: 0;
-            height: 60%;
-            text-align: left;        
+        #wrap {
+            width: 800px;
+            position: relative;        
         }
+
+        #contain {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;     
+        }
+
+
