@@ -17,6 +17,7 @@
         #table {
            width: 50%;
            display: block;
+          border-spacing: 100px;
            position: center;
            margin-left: auto;
            margin-right: auto;
