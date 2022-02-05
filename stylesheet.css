@@ -13,6 +13,12 @@
            margin-left: auto;
            margin-right: auto;
 } 
+
+        #table {
+           margin-left: auto;
+           margin-right: auto;
+} 
+
         
         #wrap {
             width: 50%;
@@ -25,9 +31,4 @@
             margin-right: auto;
         }
 
-        #table {
-           display: block;
-           margin-left: auto;
-           margin-right: auto;
-} 
 
